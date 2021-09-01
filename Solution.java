@@ -1,7 +1,7 @@
 import java.util.Arrays;
 
 /*
-Thouhg this is a snippet of a few lines, with this problem
+Although this is a snippet of a few lines, with this problem
 one could easily stray into lengthy calculations.
  */
 public class Solution {
